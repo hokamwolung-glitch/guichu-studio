@@ -1,0 +1,19 @@
+# Local files and credentials
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+work/
+downloads/
+models/
+test-results/
+# Imported audio and saved personal projects
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.guichu.json
+鬼畜工坊工程*.json
