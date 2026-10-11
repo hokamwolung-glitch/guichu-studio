@@ -1,6 +1,6 @@
 # 鬼畜工坊音效来源
 
-版本：v1.6.0（2026-10-10）
+版本：v1.8.0（2026-10-11）
 
 这 7 种可选音效以 MP3 嵌入 HTML，来自下列作者在 Freesound 发布的 CC0 1.0 素材的公开 HQ 预览。没有自动加入工程；试听和添加可离线完成。保留出处便于追溯，CC0 许可不要求署名。它们并非 B 站人物台词原声，也不是热门排名。
 
@@ -75,3 +75,20 @@
 |打工是不可能打工的|经典鬼畜|2017-11-09|[打工是不可能打工的 原版](https://www.bilibili.com/video/BV1Kx41177Dx/)|
 |我老爸得了MVP|直播反应|2025-03-02|[郑翔zard看小明剑魔【我老爸得了MVP】一直笑个不停！](https://www.bilibili.com/video/BV1uMXRYrEYj/)|
 |年轻人不讲武德|经典鬼畜|2024-07-05|[马保国原版视频 功夫大师笑嗤年轻人“不讲武德”](https://www.bilibili.com/video/BV1eb421E7WW/)|
+
+## v1.8 内置第三方梗音频
+
+以下下载页提供的录音已转为 22.05 kHz 单声道 PCM 短片段，最长 6 秒，首尾 5 ms 淡入淡出。部分为二创、处理或带背景的版本，不能保证是最早原版。来源站收录者不是原作品权利人；未核实公开再分发许可，下载功能不等于 CC0 授权，原作品权利保留。核查日期：2026-10-11。
+
+|收录文件名|内嵌时长|下载来源|
+|---|---|---|
+|鸡汤来咯.wav|4.18 秒|[音频页面](https://suocheyinxiao.cn/?search=%E9%B8%A1%E6%B1%A4)|
+|我要验牌（纯人声版）.wav|1.14 秒|[音频页面](https://suocheyinxiao.cn/?search=%E9%AA%8C%E7%89%8C)|
+|哈基米噢南北绿豆.wav|4.83 秒|[音频页面](https://suocheyinxiao.cn/?search=%E5%93%88%E5%9F%BA%E7%B1%B3)|
+|曼波波波.wav|1.58 秒|[音频页面](https://suocheyinxiao.cn/?search=%E6%9B%BC%E6%B3%A2)|
+|曼波.wav|1.20 秒|[音频页面](https://suocheyinxiao.cn/?search=%E6%9B%BC%E6%B3%A2)|
+|曼波三连.wav|4.20 秒|[音频页面](https://suocheyinxiao.cn/?search=%E6%9B%BC%E6%B3%A2)|
+|奶龙笑声锁车音效.wav|4.83 秒|[音频页面](https://suocheyinxiao.cn/?search=%E5%A5%B6%E9%BE%99)|
+|你才是奶龙.wav|3.82 秒|[音频页面](https://suocheyinxiao.cn/?search=%E5%A5%B6%E9%BE%99)|
+|咕咕嘎嘎.mp3|6.00 秒|[音频页面](https://www.myinstants.com/en/instant/gu-gu-ga-ga-35988/)|
+|你干嘛.mp3|5.66 秒|[音频页面](https://www.myinstants.com/en/instant/ni-gan-ma-ha-ha-yo-86780/)|
