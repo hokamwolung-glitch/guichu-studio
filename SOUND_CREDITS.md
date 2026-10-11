@@ -1,6 +1,6 @@
 # 鬼畜工坊音效来源
 
-版本：v1.8.0（2026-10-11）
+版本：v1.9.0（2026-10-11）
 
 这 7 种可选音效以 MP3 嵌入 HTML，来自下列作者在 Freesound 发布的 CC0 1.0 素材的公开 HQ 预览。没有自动加入工程；试听和添加可离线完成。保留出处便于追溯，CC0 许可不要求署名。它们并非 B 站人物台词原声，也不是热门排名。
 
@@ -92,3 +92,24 @@
 |你才是奶龙.wav|3.82 秒|[音频页面](https://suocheyinxiao.cn/?search=%E5%A5%B6%E9%BE%99)|
 |咕咕嘎嘎.mp3|6.00 秒|[音频页面](https://www.myinstants.com/en/instant/gu-gu-ga-ga-35988/)|
 |你干嘛.mp3|5.66 秒|[音频页面](https://www.myinstants.com/en/instant/ni-gan-ma-ha-ha-yo-86780/)|
+
+## v1.9 补齐的视频短片段
+
+从公开可播放视频的音轨截取对应短句，未保存整段视频到发布包。新增音频为 16 kHz 单声道 PCM，首尾 5 ms 淡入淡出；表中时间是来源视频中的裁剪区间。只保留现有版本的声音，有些含配乐、解说或处理；不保证为纯人声或最早原版，不将第三方作品标为 CC0。
+
+|条目 / 实际收录短句|内置时长|来源区间|实际视频来源|
+|---|---|---|---|
+|康神开播了 · 真的假的|4.00 秒|1.10–5.10 秒|[康神开播啦真的假的我靠真开播了没胖我真比以前瘦了啊你再这样说我胖了我真的受不了嘞](https://www.bilibili.com/video/BV1ZxASzbEtz/)|
+|爱你老己 · 解说提及|1.10 秒|2.68–3.78 秒|[“爱你老己？”我们该如何真正地爱自己！](https://www.bilibili.com/video/BV1R3tA6zEps/)|
+|我要金坷垃|1.75 秒|18.30–20.05 秒|[金坷垃原版](https://www.bilibili.com/video/BV1Rs411R7Hi/)|
+|从夯到拉 · 拉完了|1.25 秒|273.90–275.15 秒|[从夯到拉锐评七八月份AI模型](https://www.bilibili.com/video/BV1mxtc6HEDk/)|
+|Are you OK · 两连|4.30 秒|100.05–104.35 秒|[Are you OK？原版发布会视频 高清无水印素材](https://www.bilibili.com/video/BV1p7411m7dC/)|
+|你吼那么大声干什么|2.35 秒|7.35–9.70 秒|[你吼那么大声干什么啊原版](https://www.bilibili.com/video/BV1tx4y1f7BQ/)|
+|乌鸦坐飞机|2.25 秒|119.05–121.30 秒|[你们要的乌鸦坐飞机QAQ](https://www.bilibili.com/video/BV1jt411J7S1/)|
+|加油 · 奥利给|3.15 秒|14.90–18.05 秒|[奥利给大叔原版视频，](https://www.bilibili.com/video/BV1ME411f7Kk/)|
+|窝窝头一块钱四个 · 嘿嘿|4.95 秒|4.70–9.65 秒|[窝窝头一块钱四个，嘿嘿！](https://www.bilibili.com/video/BV1K4411d7MB/)|
+|Duang · 广告短句|4.80 秒|32.70–37.50 秒|[【4k】【高清重制】成龙霸王洗发水广告 Duang 原版](https://www.bilibili.com/video/BV1Pz411B7QR/)|
+|真香|1.42 秒|54.38–55.80 秒|[《真香》王境泽真香原版视频](https://www.bilibili.com/video/BV1hp4y1J7xj/)|
+|打工是不可能打工的|6.35 秒|5.45–11.80 秒|[打工是不可能打工的 原版](https://www.bilibili.com/video/BV1Kx41177Dx/)|
+|我老爸得了 MVP|2.60 秒|366.90–369.50 秒|[郑翔zard看小明剑魔【我老爸得了MVP】一直笑个不停！](https://www.bilibili.com/video/BV1uMXRYrEYj/)|
+|年轻人不讲武德 · 来骗来偷袭|10.40 秒|139.40–149.80 秒|[【原版视频】马保国原版视频 功夫大师笑嗤年轻人“不讲武德”](https://www.bilibili.com/video/BV1eb421E7WW/)|
